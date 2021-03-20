@@ -17,7 +17,8 @@ Packages: numpy, pandas, Beautiful soup, requests, time, pandas, json, matplotli
 ![image](https://user-images.githubusercontent.com/56518821/111861735-f2311e80-8926-11eb-89d0-2aaf0d0c5792.png)
 ![image](https://user-images.githubusercontent.com/56518821/111861739-f8bf9600-8926-11eb-8de8-7901037c2c66.png)
 ![image](https://user-images.githubusercontent.com/56518821/111862056-1a218180-8929-11eb-9d7b-f33be0b72283.png)
-![image](https://user-images.githubusercontent.com/56518821/111862044-0b3acf00-8929-11eb-88df-c1df65875469.png)
+![image](https://user-images.githubusercontent.com/56518821/111862063-26a5da00-8929-11eb-83d9-94a462c79139.png)
+
 
 
 
