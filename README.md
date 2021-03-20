@@ -13,9 +13,9 @@ Packages: numpy, pandas, Beautiful soup, requests, time, pandas, json, matplotli
 
 # EDA
 - A sample of some of the EDA performed on collected data to investigate pricing and review of MEC products relative to competitors in same category.  
-![image](https://user-images.githubusercontent.com/56518821/111862034-f78f6880-8928-11eb-8011-e1eb3b0b5c74.png)
-![image](https://user-images.githubusercontent.com/56518821/111861735-f2311e80-8926-11eb-89d0-2aaf0d0c5792.png)
-![image](https://user-images.githubusercontent.com/56518821/111861739-f8bf9600-8926-11eb-8de8-7901037c2c66.png)
+![image](https://user-images.githubusercontent.com/56518821/111862087-4937f300-8929-11eb-8773-af0810a332ec.png)
+![image](https://user-images.githubusercontent.com/56518821/111862092-5359f180-8929-11eb-8740-9336dbce947a.png)
+![image](https://user-images.githubusercontent.com/56518821/111862093-55bc4b80-8929-11eb-8e03-ace9ec9274b3.png)
 ![image](https://user-images.githubusercontent.com/56518821/111862056-1a218180-8929-11eb-9d7b-f33be0b72283.png)
 ![image](https://user-images.githubusercontent.com/56518821/111862075-345b5f80-8929-11eb-83a4-ebd28937c569.png)
 
