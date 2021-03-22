@@ -1,5 +1,5 @@
 # MEC Webscraping and EDA Analysis: Price and Review Comparison 
-- Wanted to identify how competitively priced and rated MEC products were relative to other brands sold in store 
+- Aims to identify how competitively priced and rated MEC products were relative to other brands sold in store 
 - Scraped over 1500+ products from MEC website between Oct 25 - 27, 2020 using Beautiful Soup
 - Collected categories include men's and women's clothing, footwear, camping equipment, snow equipment, watersports, and hiking 
   - for each item we retrieved: item name, brand, MSP, avg review, num of reivews, sale % (if any), saleprice (if any), product description.
